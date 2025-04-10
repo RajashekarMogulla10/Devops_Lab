@@ -1,15 +1,7 @@
 class myhelloworld
 {
-	void print()
+public static void main(String[] args)
 	{
 	System.out.println("HELLOWORLD");
-	}
-}
-class hello
-{
-	public static void main(String[] args)
-	{
-	myhelloworld hw=new myhelloworld();
-	hw.print();
 	}
 }
